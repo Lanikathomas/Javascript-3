@@ -1,5 +1,6 @@
 # Javascript-3 
 This website is designed to generate a password to meet the password criteria
+
 <img width="1440" alt="Screen Shot 2022-01-17 at 11 14 50 PM" src="https://user-images.githubusercontent.com/95833323/149888716-8a1d2fcd-5a91-418c-903e-4a769ac22fec.png">
 <img width="1440" alt="Screen Shot 2022-01-17 at 10 45 07 PM" src="https://user-images.githubusercontent.com/95833323/149887991-ba468480-e82d-4826-883b-50a21b4dd176.png">
 <img width="1440" alt="Screen Shot 2022-01-17 at 10 45 22 PM" src="https://user-images.githubusercontent.com/95833323/149888013-a22da386-b4ed-44cc-a50e-4318bf5f001f.png">
